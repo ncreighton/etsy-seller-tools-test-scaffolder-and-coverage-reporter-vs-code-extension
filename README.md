@@ -1,0 +1,2 @@
+# etsy-seller-tools-test-scaffolder-and-coverage-reporter-vs-code-extension
+Generate test files, mock data, and coverage reports tuned for Etsy Seller Tools frameworks. Domain-aware testing that generic tools can't match.
